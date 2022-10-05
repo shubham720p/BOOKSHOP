@@ -26,7 +26,7 @@ class Student:
         return self.book
 
     def returnBook(self):
-        self.book = input("Enter the name of the book you want to return: ")
+        self.book = input("Enter the name of the book you wantto add or return: ")
         return self.book
          
 
